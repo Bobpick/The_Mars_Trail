@@ -1,5 +1,7 @@
 # THE MARS TRAIL - Chibi Edition
 
+![Chibi Mars Astronauts](chibi.jpeg)
+
 A survival adventure game set on the Red Planet!
 
 ## ☄️ About The Game
